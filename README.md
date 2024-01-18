@@ -1,0 +1,2 @@
+# repartoutdiag
+Diagnostique Repar'tout
